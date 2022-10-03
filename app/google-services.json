@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437817439173",
+    "project_id": "customerdb-c4155",
+    "storage_bucket": "customerdb-c4155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437817439173:android:6e24723f5b905d5eaf91ac",
+        "android_client_info": {
+          "package_name": "com.nahidd.customerdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437817439173-5o9g345s62d4ig7ba0hpdpm86gk3142l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_P7iaYHv9iSnFNETeVa1VoeKsKxqaICM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437817439173-5o9g345s62d4ig7ba0hpdpm86gk3142l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
